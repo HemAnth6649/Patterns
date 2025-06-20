@@ -1,0 +1,15 @@
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\bin\Debug\net8.0\PyramidPattern.exe
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\bin\Debug\net8.0\PyramidPattern.deps.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\bin\Debug\net8.0\PyramidPattern.runtimeconfig.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\bin\Debug\net8.0\PyramidPattern.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\bin\Debug\net8.0\PyramidPattern.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.AssemblyInfoInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.AssemblyInfo.cs
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.csproj.CoreCompileInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.sourcelink.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\refint\PyramidPattern.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\PyramidPattern.genruntimeconfig.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\PyramidPattern\PyramidPattern\obj\Debug\net8.0\ref\PyramidPattern.dll
