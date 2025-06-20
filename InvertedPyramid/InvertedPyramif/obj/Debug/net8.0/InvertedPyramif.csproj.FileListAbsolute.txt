@@ -1,0 +1,15 @@
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.AssemblyInfoInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.AssemblyInfo.cs
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.csproj.CoreCompileInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.sourcelink.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\bin\Debug\net8.0\InvertedPyramif.exe
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\bin\Debug\net8.0\InvertedPyramif.deps.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\bin\Debug\net8.0\InvertedPyramif.runtimeconfig.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\bin\Debug\net8.0\InvertedPyramif.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\bin\Debug\net8.0\InvertedPyramif.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\refint\InvertedPyramif.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\InvertedPyramif.genruntimeconfig.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\InvertedPyramif\InvertedPyramif\obj\Debug\net8.0\ref\InvertedPyramif.dll

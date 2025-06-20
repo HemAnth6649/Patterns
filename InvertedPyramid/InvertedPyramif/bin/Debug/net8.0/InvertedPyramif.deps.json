@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InvertedPyramif/1.0.0": {
+        "runtime": {
+          "InvertedPyramif.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvertedPyramif/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
