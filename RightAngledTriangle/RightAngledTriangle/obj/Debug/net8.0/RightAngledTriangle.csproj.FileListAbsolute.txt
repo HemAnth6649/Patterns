@@ -1,0 +1,15 @@
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.AssemblyInfoInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.AssemblyInfo.cs
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.sourcelink.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\bin\Debug\net8.0\RightAngledTriangle.exe
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\bin\Debug\net8.0\RightAngledTriangle.deps.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\bin\Debug\net8.0\RightAngledTriangle.runtimeconfig.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\bin\Debug\net8.0\RightAngledTriangle.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\bin\Debug\net8.0\RightAngledTriangle.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\refint\RightAngledTriangle.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\RightAngledTriangle.genruntimeconfig.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\RightAngledTriangle\RightAngledTriangle\obj\Debug\net8.0\ref\RightAngledTriangle.dll

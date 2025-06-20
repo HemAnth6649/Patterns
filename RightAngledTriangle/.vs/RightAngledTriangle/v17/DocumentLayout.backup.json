@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scita-pc-39\\Music\\Practice\\Patterns\\RightAngledTriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409D4D59-5B42-4D12-A8E4-1DDE2F5EBCA0}|RightAngledTriangle\\RightAngledTriangle.csproj|c:\\users\\scita-pc-39\\music\\practice\\patterns\\rightangledtriangle\\rightangledtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409D4D59-5B42-4D12-A8E4-1DDE2F5EBCA0}|RightAngledTriangle\\RightAngledTriangle.csproj|solutionrelative:rightangledtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-39\\Music\\Practice\\Patterns\\RightAngledTriangle\\RightAngledTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "RightAngledTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-39\\Music\\Practice\\Patterns\\RightAngledTriangle\\RightAngledTriangle\\Program.cs*",
+              "RelativeToolTip": "RightAngledTriangle\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:46:48.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
