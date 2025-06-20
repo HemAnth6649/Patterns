@@ -1,0 +1,15 @@
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.AssemblyInfoInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.AssemblyInfo.cs
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.csproj.CoreCompileInputs.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.sourcelink.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\bin\Debug\net8.0\IntevertedRightAngle.exe
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\bin\Debug\net8.0\IntevertedRightAngle.deps.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\bin\Debug\net8.0\IntevertedRightAngle.runtimeconfig.json
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\bin\Debug\net8.0\IntevertedRightAngle.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\bin\Debug\net8.0\IntevertedRightAngle.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\refint\IntevertedRightAngle.dll
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.pdb
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\IntevertedRightAngle.genruntimeconfig.cache
+C:\Users\Scita-pc-39\Music\Practice\Patterns\IntevertedRightAngle\IntevertedRightAngle\obj\Debug\net8.0\ref\IntevertedRightAngle.dll
